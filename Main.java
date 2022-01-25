@@ -12,7 +12,7 @@ class Main{
                 System.out.println("Data Structures and Algorithms"); 
                 break;  
             case "CSC1009":   
-                System.out.println("Object-Orientated Programming"); 
+                System.out.println("Object-Oriented Programming"); 
                 break;
             case "CSC1010":   
                 System.out.println("Computer Networks"); 
